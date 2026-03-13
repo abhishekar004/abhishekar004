@@ -1,50 +1,47 @@
-# Hi 👋 I'm Abhi Shekar
+<h1 align="center">Hi 👋, I'm Abhi Shekar</h1>
+<h3 align="center">Java Developer | Full Stack Enthusiast | AI/ML Explorer</h3>
 
-🎓 **CSE Student at RGUKT-Srikakulam**
-💻 **Java & Full Stack Developer**
-🤖 **AI/ML Enthusiast**
-🚀 Passionate about building real-world applications
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;Full+Stack+Developer;AI%2FML+Enthusiast;Building+Real+World+Projects;Future+Software+Engineer" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 B.Tech CSE (CGPA: 8.15)
-* 💡 Interested in **Full Stack Development, AI/ML, and Cloud**
-* 🧠 Currently learning **Spring Boot & Advanced DSA**
-* 🔭 Building **AI-powered applications**
-* 🎯 Goal: Crack **Product-Based Company placements**
+🎓 B.Tech CSE Student at **RGUKT-Srikakulam**
+💻 Passionate about **Java, Full Stack Development, and AI/ML**
+🚀 Building **real-world projects and improving problem-solving skills**
+☁️ Interested in **Cloud Computing and System Design**
+🎯 Goal: Become a **Software Engineer in a Product-Based Company**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming
+### 👨‍💻 Programming Languages
 
-* Java
-* Python
-* JavaScript
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=java)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
 
 ### 🌐 Web Development
 
-* HTML
-* CSS
-* React
-* TypeScript
-* Tailwind CSS
+![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
+![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge\&logo=tailwindcss)
 
 ### 🗄️ Database
 
-* PostgreSQL
-* MongoDB
-* Supabase
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
 
-### ⚙️ Tools & Platforms
+### ⚙️ Tools
 
-* Git
-* GitHub
-* Vercel
-* Streamlit
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge\&logo=vercel)
 
 ---
 
@@ -52,39 +49,51 @@
 
 ### 🏋️ TrainBeyond-AI
 
-AI-powered personalized workout planner.
+AI-powered **personalized workout planner**
 
-**Tech Stack**
-React • TypeScript • Tailwind • Supabase • PostgreSQL • Transformers
+**Tech:** React, TypeScript, Tailwind CSS, Supabase, PostgreSQL, Transformers
 
 ---
 
 ### 🎬 Movie Recommendation System
 
-Machine Learning based movie recommendation platform.
+Machine learning-based **movie recommendation system**
 
-**Tech Stack**
-Python • Streamlit • FAISS • TF-IDF • OMDB API
+**Tech:** Python, Streamlit, FAISS, TF-IDF, OMDB API
 
 ---
 
 ## 📊 GitHub Stats
 
-![Abhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekar004\&show_icons=true\&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=abhishekar004&show_icons=true&theme=tokyonight"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekar004\&layout=compact\&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekar004&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishekar004\&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekar004&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekar004&theme=tokyo-night"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-🔗 LinkedIn
+💼 LinkedIn
 https://www.linkedin.com/in/abhishekar004
 
 💻 GitHub
