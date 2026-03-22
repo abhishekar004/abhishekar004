@@ -112,7 +112,7 @@ Dynamic Prog.    ░░░░░░░░░░░░░░░░░░░░  u
 Total: 45 / 300+   ████░░░░░░░░░░░░░░░░  15%
 ```
 
-📂 **[View DSA Repo →](https://github.com/abhishekar004/DSA-Java-Placement-Prep)**
+📂 **[View DSA Repo →](https://github.com/abhishekar004/DSA-Java-prep)**
 
 ---
 
