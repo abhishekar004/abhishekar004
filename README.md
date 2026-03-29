@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DSA%20Solved-45%2F300-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA%20Solved-66%2F300-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/Streak-10%20Days-red?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/Patterns%20Mastered-19-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Goal-Software%20Engineer-green?style=for-the-badge" />
 </p>
 
@@ -36,14 +36,16 @@
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
 
-**🌐 Web**
+**🌐 Web & Frameworks**
 
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
 
@@ -99,20 +101,22 @@ ML-based **movie recommendation engine** using content similarity and real-time 
 
 ## 🧩 DSA Journey
 
-> Solving **300+ problems** in Java, grouped by pattern for interview readiness.
+> Solving **300+ problems** in Java, grouped by pattern — not just problem count.
 
 ```
-Arrays           ████████████████████  45 solved  ✅
-Strings          ░░░░░░░░░░░░░░░░░░░░  upcoming   ⚪
-LinkedList       ░░░░░░░░░░░░░░░░░░░░  upcoming   ⚪
-Trees            ░░░░░░░░░░░░░░░░░░░░  upcoming   ⚪
-Graphs           ░░░░░░░░░░░░░░░░░░░░  upcoming   ⚪
-Dynamic Prog.    ░░░░░░░░░░░░░░░░░░░░  upcoming   ⚪
+Arrays        ████████████████░░░░  48 solved  ✅  13 patterns
+Strings       ████████████░░░░░░░░  18 solved  ✅  10 patterns
+LinkedList    ░░░░░░░░░░░░░░░░░░░░  upcoming   ⚪
+Trees         ░░░░░░░░░░░░░░░░░░░░  upcoming   ⚪
+Graphs        ░░░░░░░░░░░░░░░░░░░░  upcoming   ⚪
+DP            ░░░░░░░░░░░░░░░░░░░░  upcoming   ⚪
 
-Total: 45 / 300+   ████░░░░░░░░░░░░░░░░  15%
+Total: 66 / 300+   █████░░░░░░░░░░░░░░░  22%
 ```
 
-📂 **[View DSA Repo →](https://github.com/abhishekar004/DSA-Java-prep)**
+**Patterns mastered so far:** HashMap · Two Pointers · Greedy · Prefix Sum · Kadane's · Cyclic Sort · Floyd Cycle · Intervals · Binary Search · Binary Search on Answer · Heap · Partition · LCM+GCD · Sliding Window · Fixed Window · Expand Around Center · Simulation · Stack · DP on Strings
+
+📂 **[View Full DSA Repo →](https://github.com/abhishekar004/DSA-Java-prep)**
 
 ---
 
