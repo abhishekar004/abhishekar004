@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DSA%20Solved-66%2F300-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA%20Solved-68%2F300-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java" />
   <img src="https://img.shields.io/badge/Patterns%20Mastered-19-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Goal-Software%20Engineer-green?style=for-the-badge" />
