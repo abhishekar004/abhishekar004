@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DSA%20Solved-75%2F300-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA%20Solved-80%2F300-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java" />
   <img src="https://img.shields.io/badge/Patterns%20Mastered-24-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Goal-Software%20Engineer-green?style=for-the-badge" />
@@ -106,12 +106,12 @@ ML-based **movie recommendation engine** using content similarity and real-time 
 ```
 Arrays        ████████████████░░░░  48 solved  ✅  13 patterns
 Strings       ████████████░░░░░░░░  18 solved  ✅  10 patterns
-LinkedList    ░░░░░░░░░░░░░░░░░░░░  upcoming   ⚪
+LinkedList    ██░░░░░░░░░░░░░░░░░░  5  solved  ✅  3 patterns
 Trees         ░░░░░░░░░░░░░░░░░░░░  upcoming   ⚪
 Graphs        ░░░░░░░░░░░░░░░░░░░░  upcoming   ⚪
 DP            ░░░░░░░░░░░░░░░░░░░░  upcoming   ⚪
 
-Total: 66 / 300+   █████░░░░░░░░░░░░░░░  22%
+Total: 80 / 300+   █████░░░░░░░░░░░░░░░  26%
 ```
 
 **Patterns mastered so far:** HashMap · Two Pointers · Greedy · Prefix Sum · Kadane's · Cyclic Sort · Floyd Cycle · Intervals · Binary Search · Binary Search on Answer · Heap · Partition · LCM+GCD · Sliding Window · Fixed Window · Expand Around Center · Simulation · Stack · DP on Strings
