@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DSA%20Solved-87%2F300+-00FF94?style=for-the-badge&labelColor=0d1117&color=00FF94" />
+  <img src="https://img.shields.io/badge/DSA%20Solved-95%2F300+-00FF94?style=for-the-badge&labelColor=0d1117&color=00FF94" />
   <img src="https://img.shields.io/badge/Language-Java-F89820?style=for-the-badge&labelColor=0d1117&logo=openjdk&logoColor=F89820" />
   <img src="https://img.shields.io/badge/Patterns%20Mastered-30-A78BFA?style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Goal-Product%20Based%20SWE-38BDF8?style=for-the-badge&labelColor=0d1117" />
