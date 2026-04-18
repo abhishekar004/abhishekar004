@@ -96,15 +96,15 @@ ML-based **recommendation engine** using content similarity and real-time poster
 > ⚡ **Core philosophy:** Recognize the pattern in 30 seconds. Solve in 5 minutes. Ship with confidence.
 
 ```
-Phase 1 — Arrays        ✅  57 problems  ·  19 patterns  ████████████████████
-Phase 2 — Strings       ✅  24 problems  ·  12 patterns  ████████████████░░░░
-Phase 3 — LinkedList    🟢   6 problems  ·   5 patterns  ██░░░░░░░░░░░░░░░░░░
+Phase 1 — Arrays        ✅  60 problems  ·  19 patterns  ████████████████████
+Phase 2 — Strings       ✅  25 problems  ·  12 patterns  ████████████████░░░░
+Phase 3 — LinkedList    🟢  10 problems  ·   5 patterns  ██░░░░░░░░░░░░░░░░░░
 Phase 4 — Stack/Queue   ⬜   upcoming
 Phase 5 — Trees         ⬜   upcoming
 Phase 6 — Graphs        ⬜   upcoming
 Phase 7 — Dynamic Prog  ⬜   upcoming
 
-Total   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  87 / 300+   ██████░░░░░░░░░░░░░░  29%
+Total   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  95 / 300+   ██████░░░░░░░░░░░░░░  29%
 ```
 
 **Patterns mastered:** HashMap · Two Pointers · Greedy · Prefix Sum · Kadane's · Cyclic Sort · Floyd Cycle · Intervals · Binary Search · Binary Search on Answer · Heap · Partition · LCM+GCD · Sliding Window · Fixed Window · Expand Around Center · Simulation · Stack · DP on Strings · String Manipulation · Reversal · Fast & Slow Pointers · Two Pointer Merge · Dummy Node · Two Pointer Sync · Frequency Array · Matrix Traversal · Modular Arithmetic · Conditional Math · Array Traversal
