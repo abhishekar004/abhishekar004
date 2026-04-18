@@ -1,27 +1,28 @@
-<h1 align="center">Hi 👋, I'm Abhi Shekar</h1>
-
-<h3 align="center">Java Developer · Full Stack Enthusiast · AI/ML Explorer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Java+Developer;Full+Stack+Developer;AI%2FML+Enthusiast;Building+Real+World+Projects;Future+Software+Engineer" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=00FF94&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Abhi+Shekar+%F0%9F%91%8B;Java+Developer;Full+Stack+Builder;AI%2FML+Explorer;Future+SWE+%40+Product+Co." alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DSA%20Solved-80%2F300-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/Patterns%20Mastered-24-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Goal-Software%20Engineer-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA%20Solved-87%2F300+-00FF94?style=for-the-badge&labelColor=0d1117&color=00FF94" />
+  <img src="https://img.shields.io/badge/Language-Java-F89820?style=for-the-badge&labelColor=0d1117&logo=openjdk&logoColor=F89820" />
+  <img src="https://img.shields.io/badge/Patterns%20Mastered-30-A78BFA?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Goal-Product%20Based%20SWE-38BDF8?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 ---
 
-## 🚀 About Me
+```java
+public class AbhiShekar {
 
-- 🎓 B.Tech CSE Student at **RGUKT-Srikakulam**
-- 💻 Passionate about **Java, Full Stack Development, and AI/ML**
-- 🧩 Currently mastering **DSA patterns** for product-based company placements
-- ☁️ Exploring **Cloud Computing and System Design**
-- 🎯 Goal: **Software Engineer at a Product-Based Company**
+    String[]  roles    = {"Java Developer", "Full Stack Builder", "AI/ML Explorer"};
+    String    college  = "RGUKT-Srikakulam | B.Tech CSE";
+    String    focus    = "DSA Mastery → Product-Based Placements";
+    String[]  building = {"TrainBeyond-AI", "Movie Recommender", "DSA Pattern Vault"};
+    String    goal     = "Software Engineer @ Dream Company 🚀";
+
+    String    motto()  { return "Pattern first. Code second. Ship always."; }
+}
+```
 
 ---
 
@@ -33,31 +34,31 @@
 
 **👨‍💻 Languages**
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
 
 **🌐 Web & Frameworks**
 
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
 
 **🗄️ Database & Tools**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 </td>
 </tr>
@@ -74,24 +75,15 @@
 ### 🏋️ TrainBeyond-AI
 AI-powered **personalized workout planner** that tailors fitness plans to individual goals using transformer models.
 
-**Tech Stack:**
-![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript)
-![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=flat-square&logo=tailwindcss)
-![Supabase](https://img.shields.io/badge/Supabase-green?style=flat-square&logo=supabase)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=postgresql)
+**Stack:** React · TypeScript · Tailwind · Supabase · PostgreSQL
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎬 Movie Recommendation System
-ML-based **movie recommendation engine** using content similarity and real-time poster fetching.
+ML-based **recommendation engine** using content similarity and real-time poster fetching via TMDB API.
 
-**Tech Stack:**
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python)
-![Streamlit](https://img.shields.io/badge/Streamlit-red?style=flat-square&logo=streamlit)
-![FAISS](https://img.shields.io/badge/FAISS-grey?style=flat-square)
-![TF--IDF](https://img.shields.io/badge/TF--IDF-grey?style=flat-square)
+**Stack:** Python · Streamlit · FAISS · TF-IDF
 
 </td>
 </tr>
@@ -99,33 +91,33 @@ ML-based **movie recommendation engine** using content similarity and real-time 
 
 ---
 
-## 🧩 DSA Journey
+## 🧩 DSA Journey — Pattern-Based, Not Problem-Count-Based
 
-> Solving **300+ problems** in Java, grouped by pattern — not just problem count.
+> ⚡ **Core philosophy:** Recognize the pattern in 30 seconds. Solve in 5 minutes. Ship with confidence.
 
 ```
-Arrays        ████████████████░░░░  48 solved  ✅  13 patterns
-Strings       ████████████░░░░░░░░  18 solved  ✅  10 patterns
-LinkedList    ██░░░░░░░░░░░░░░░░░░  5  solved  ✅  3 patterns
-Trees         ░░░░░░░░░░░░░░░░░░░░  upcoming   ⚪
-Graphs        ░░░░░░░░░░░░░░░░░░░░  upcoming   ⚪
-DP            ░░░░░░░░░░░░░░░░░░░░  upcoming   ⚪
+Phase 1 — Arrays        ✅  57 problems  ·  19 patterns  ████████████████████
+Phase 2 — Strings       ✅  24 problems  ·  12 patterns  ████████████████░░░░
+Phase 3 — LinkedList    🟢   6 problems  ·   5 patterns  ██░░░░░░░░░░░░░░░░░░
+Phase 4 — Stack/Queue   ⬜   upcoming
+Phase 5 — Trees         ⬜   upcoming
+Phase 6 — Graphs        ⬜   upcoming
+Phase 7 — Dynamic Prog  ⬜   upcoming
 
-Total: 80 / 300+   █████░░░░░░░░░░░░░░░  26%
+Total   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  87 / 300+   ██████░░░░░░░░░░░░░░  29%
 ```
 
-**Patterns mastered so far:** HashMap · Two Pointers · Greedy · Prefix Sum · Kadane's · Cyclic Sort · Floyd Cycle · Intervals · Binary Search · Binary Search on Answer · Heap · Partition · LCM+GCD · Sliding Window · Fixed Window · Expand Around Center · Simulation · Stack · DP on Strings
+**Patterns mastered:** HashMap · Two Pointers · Greedy · Prefix Sum · Kadane's · Cyclic Sort · Floyd Cycle · Intervals · Binary Search · Binary Search on Answer · Heap · Partition · LCM+GCD · Sliding Window · Fixed Window · Expand Around Center · Simulation · Stack · DP on Strings · String Manipulation · Reversal · Fast & Slow Pointers · Two Pointer Merge · Dummy Node · Two Pointer Sync · Frequency Array · Matrix Traversal · Modular Arithmetic · Conditional Math · Array Traversal
 
-📂 **[View Full DSA Repo →](https://github.com/abhishekar004/DSA-Java-prep)**
+📂 **[View Full DSA Pattern Vault →](https://github.com/abhishekar004/DSA-Java-prep)**
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats-a9oq.vercel.app/api?username=abhishekar004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-
-<img src="https://github-readme-stats-a9oq.vercel.app/api/top-langs/?username=abhishekar004&layout=compact&theme=tokyonight&hide_border=true" width="40%" />  
+  <img src="https://github-readme-stats-a9oq.vercel.app/api?username=abhishekar004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-a9oq.vercel.app/api/top-langs/?username=abhishekar004&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
 <p align="center">
@@ -141,7 +133,7 @@ Total: 80 / 300+   █████░░░░░░░░░░░░░░░ 
 ## 📈 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/abhishekar004?theme=dark&font=Nunito&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/abhishekar004?theme=dark&font=JetBrains+Mono&ext=heatmap" />
 </p>
 
 ---
@@ -154,24 +146,28 @@ Total: 80 / 300+   █████░░░░░░░░░░░░░░░ 
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishekar004">
-    <img src="https://img.shields.io/badge/LinkedIn-abhishekar004-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-abhishekar004-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
   </a>
   &nbsp;
   <a href="https://github.com/abhishekar004">
-    <img src="https://img.shields.io/badge/GitHub-abhishekar004-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-abhishekar004-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
   </a>
   &nbsp;
   <a href="mailto:abhishekarpulla@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abhishekarpulla@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-abhishekarpulla@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>⭐ "Code. Learn. Build. Repeat." — Let's connect and grow together 🚀</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=2000&color=00FF94&center=true&vCenter=true&width=500&lines=while(alive)+%7B+eat()%3B+sleep()%3B+code()%3B+repeat()%3B+%7D" />
+</p>
+
+<p align="center">
+  <i>⭐ Star the DSA repo if it helps you. Keep shipping. Keep growing. 🚀</i>
 </p>
